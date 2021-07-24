@@ -1,15 +1,45 @@
 p{color: gray;
-font-family: cursive;}
+    font-family: 'Abel', sans-serif;
+font-size: 20px;}
+
 h1 {color: red;
-font-size: x-large;
+font-size: 50px;
 text-align: center;
-font-weight: 2000;}
+font-weight: 2000;
+font-family: 'Otomanopee One', sans-serif;}
+
 a {text-align: end;
 font-family: cursive;
 background-color: grey;
-;}
-h2 {color: yellowgreen;
-font-family: serif;}
+;font-family: 'Otomanopee One', sans-serif;
+margin-left: 85%;
+}
+
+h2 {color: blue;
+font-family: 'Bebas Neue', cursive;}
+
 .Random {color: black;
-background-color: brown;}
+background-color: gray;}
 li {color: gray;}
+
+img {border-radius: 50px;
+background-color: solid
+black;
+box-shadow:20px 20px 20px black;
+margin-left: 30%;}
+
+li {font-size: 20px;
+margin-left: 0px;}
+
+.Volley {color: rgb(218, 210, 208);
+border-radius: 100%;
+background-color: gray;
+box-shadow:3px 3px 3px black; }
+
+.Basket {color: orangered;
+border-radius: 100%;
+background-color: black;
+box-shadow: 3px 3px 3px black;}
+
+.Futbol {border-radius: 100%;
+box-shadow: 3px 3px 3px black;}
